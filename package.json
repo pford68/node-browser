@@ -1,0 +1,10 @@
+{
+  "name": "node-browser",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "chrome-remote-interface": "^0.25.5",
+    "debug": "~2.6.9"
+  }
+}
