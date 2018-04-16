@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {},
   "dependencies": {
+    "chrome-launcher": "^0.10.2",
     "chrome-remote-interface": "^0.25.5",
-    "debug": "~2.6.9"
+    "debug": "~2.6.9",
+    "minimist": "^1.2.0"
   }
 }
