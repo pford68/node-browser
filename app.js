@@ -1,3 +1,7 @@
+/*
+Runs headless Chrome though a console app.
+ */
+
 const fs = require('fs');
 const CDP = require('chrome-remote-interface');
 const launcher = require('chrome-launcher');
